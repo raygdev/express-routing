@@ -1,0 +1,29 @@
+.main-title {
+    display: flex;
+    justify-items: flex-start;
+    align-items: flex-start;
+}
+
+.main-title_content-wrapper {
+    width: 400px;
+    margin: auto auto;
+    padding: 1em;
+}
+
+.main-title_list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    width: 100%
+}
+
+.main-title_heading {
+    margin-left: 3em;
+    margin-top: 0;
+}
+
+.users-title {
+    margin: 0;
+    padding: 1em;
+}
